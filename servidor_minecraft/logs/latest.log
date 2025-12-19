@@ -1,0 +1,85 @@
+[00:04:05] [Server thread/INFO]: miribv fell from a high place
+[00:04:26] [Server thread/INFO]: Teleported miribv to Nyehtz
+[00:12:56] [Server thread/INFO]: miribv was doomed to fall by Ghast
+[00:13:21] [Server thread/INFO]: Teleported miribv to Nyehtz
+[00:23:03] [Server thread/INFO]: miribv burned to death
+[00:26:14] [Server thread/INFO]: Teleported miribv to Nyehtz
+[00:29:33] [Server thread/INFO]: Nyehtz tried to swim in lava
+[00:30:33] [Server thread/INFO]: miribv has made the advancement [Cover Me with Diamonds]
+[00:32:33] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> zzzz
+[00:32:33] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> z
+[00:32:33] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> z
+[00:32:33] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> z
+[00:32:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> z
+[00:32:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> z
+[00:32:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> z
+[00:32:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> zz
+[00:32:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> z
+[00:32:34] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> z
+[00:33:17] [Server thread/INFO]: Teleported miribv to Nyehtz
+[00:33:29] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> me acordare de esto
+[00:33:35] [Async Chat Thread - #2/INFO]: [Not Secure] <Nyehtz> lo escuche
+[00:35:40] [Server thread/INFO]: Teleported miribv to Nyehtz
+[00:42:12] [Async Chat Thread - #4/INFO]: [Not Secure] <Nyehtz> XDD
+[00:42:13] [Async Chat Thread - #4/INFO]: [Not Secure] <Nyehtz> CUM
+[00:42:15] [Async Chat Thread - #4/INFO]: [Not Secure] <Nyehtz> ing
+[00:42:17] [Async Chat Thread - #4/INFO]: [Not Secure] <Nyehtz> :o
+[00:42:19] [Async Chat Thread - #4/INFO]: [Not Secure] <Nyehtz> awos
+[00:42:22] [Async Chat Thread - #4/INFO]: [Not Secure] <Nyehtz> cominf
+[00:42:26] [Async Chat Thread - #4/INFO]: [Not Secure] <Nyehtz> peroosdasodn giasdai
+[00:48:35] [Server thread/INFO]: Nyehtz was blown up by Creeper
+[00:48:51] [Server thread/INFO]: Teleported Nyehtz to miribv
+[00:50:01] [Server thread/INFO]: Nyehtz lost connection: Disconnected
+[00:50:01] [Server thread/INFO]: Nyehtz left the game
+[00:52:05] [Server thread/INFO]: miribv has made the advancement [The Parrots and the Bats]
+[01:04:05] [Server thread/INFO]: miribv was shot by Skeleton
+[01:04:28] [Server thread/INFO]: miribv lost connection: Disconnected
+[01:04:28] [Server thread/INFO]: miribv left the game
+[01:04:36] [User Authenticator #1/INFO]: UUID of player miribv is 3f45f9fb-711d-3cba-942e-9d85d152189c
+[01:04:37] [Server thread/INFO]: miribv joined the game
+[01:04:37] [Server thread/INFO]: miribv[/127.229.153.10:59449] logged in with entity id 21203 at ([world]-308.97810549515196, 62.9375, 340.5089700432861)
+[01:05:05] [Server thread/INFO]: miribv lost connection: Disconnected
+[01:05:05] [Server thread/INFO]: miribv left the game
+[01:19:38] [User Authenticator #2/INFO]: UUID of player Nyehtz is 56c5e53b-7d52-3ed5-adcf-36baeabb5062
+[01:19:38] [Server thread/INFO]: Nyehtz joined the game
+[01:19:38] [Server thread/INFO]: Nyehtz[/127.116.194.164:35809] logged in with entity id 21253 at ([world]925.5038711767513, 64.0, 761.4645877545539)
+[01:19:38] [Server thread/INFO]: No entity was found
+[01:19:50] [Server thread/INFO]: No entity was found
+[01:19:55] [Server thread/INFO]: Nyehtz lost connection: Disconnected
+[01:19:55] [Server thread/INFO]: Nyehtz left the game
+[01:20:10] [Server thread/INFO]: Stopping the server
+[01:20:10] [Server thread/INFO]: Stopping server
+[01:20:10] [Server thread/INFO]: [SkinsRestorer] Disabling SkinsRestorer v15.9.0
+[01:20:10] [Server thread/INFO]: [ClearLag] Disabling ClearLag v3.2.2
+[01:20:10] [Server thread/INFO]: [ClearLag] Clearlag is now disabled!
+[01:20:10] [Server thread/INFO]: Saving players
+[01:20:10] [Server thread/INFO]: Saving worlds
+[01:20:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[01:20:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world'
+[01:20:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world'
+[01:20:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world'
+[01:20:10] [Server thread/INFO]: [ChunkHolderManager] Saved 3 block chunks, 28 entity chunks, 0 poi chunks in world 'world' in 0.09s
+[01:20:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world'
+[01:20:10] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world'
+[01:20:10] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[01:20:10] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_nether'
+[01:20:10] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_nether'
+[01:20:10] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_nether'
+[01:20:11] [Server thread/INFO]: [ChunkHolderManager] Saved 16 block chunks, 38 entity chunks, 0 poi chunks in world 'world_nether' in 0.03s
+[01:20:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_nether'
+[01:20:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_nether'
+[01:20:11] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[01:20:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk system to halt for world 'world_the_end'
+[01:20:11] [Server thread/INFO]: [ChunkHolderManager] Halted chunk system for world 'world_the_end'
+[01:20:11] [Server thread/INFO]: [ChunkHolderManager] Saving all chunkholders for world 'world_the_end'
+[01:20:11] [Server thread/INFO]: [ChunkHolderManager] Saved 0 block chunks, 10 entity chunks, 0 poi chunks in world 'world_the_end' in 0.00s
+[01:20:11] [Server thread/INFO]: [ChunkHolderManager] Waiting 60s for chunk I/O to halt for world 'world_the_end'
+[01:20:11] [Server thread/INFO]: [ChunkHolderManager] Halted I/O scheduler for world 'world_the_end'
+[01:20:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[01:20:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[01:20:11] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[01:20:11] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[01:20:11] [Server thread/INFO]: Waiting for all RegionFile I/O tasks to complete...
+[01:20:11] [Server thread/INFO]: All RegionFile I/O tasks to complete
+[01:20:11] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of worker pool for up to 60s...
+[01:20:11] [Server thread/INFO]: [MoonriseCommon] Awaiting termination of I/O pool for up to 60s...
